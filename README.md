@@ -1,4 +1,4 @@
-![MasterHead](http://smejoinup.com/wp-content/uploads/2018/02/web-development.gif)
+![MasterHead](https://qtcinfotech.com/images/web-development/cms-website-development-service.gif)
 <h1 align="center">Hi 👋, I'm Abhishak kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
