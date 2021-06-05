@@ -1,4 +1,4 @@
-![MasterHead](https://qtcinfotech.com/images/web-development/cms-website-development-service.gif)
+![MasterHead](https://magiccopy.xyz/assets/images/hadder.gif)
 <h1 align="center">Hi 👋, I'm Abhishak kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
