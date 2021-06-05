@@ -1,4 +1,4 @@
-![MasterHead](https://magiccopy.xyz/assets/images/hadder.gif)
+![MasterHead](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 <h1 align="center">Hi 👋, I'm Abhishak kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
