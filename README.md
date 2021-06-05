@@ -1,5 +1,4 @@
-![MasterHead](https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif)
-
+![MasterHead](http://smejoinup.com/wp-content/uploads/2018/02/web-development.gif)
 <h1 align="center">Hi 👋, I'm Abhishak kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
